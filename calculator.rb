@@ -1,3 +1,3 @@
 # Add your variables here
 
-first_number = integer 
+first_number = 5  
